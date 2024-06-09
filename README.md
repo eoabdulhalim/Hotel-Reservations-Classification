@@ -17,8 +17,8 @@ that takes all data from the user and then provides the final prediction based o
 
 Finally, I published the model from localhost to a server using PythonAnywhere.
 
-check the data source
-https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
-
 Test My Model
 https://eoabdulhalim.pythonanywhere.com/
+
+check the data source
+https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
