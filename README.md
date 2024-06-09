@@ -16,4 +16,4 @@ check the data source
 https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
 
 Test My Model
-https://www.eoabdulhalim.pythonanywhere.com
+https://eoabdulhalim.pythonanywhere.com/
