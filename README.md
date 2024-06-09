@@ -14,3 +14,6 @@ from the user and then give the final prediction as an output based on the data 
 
 check the data source
 https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset
+
+Test My Model
+https://www.eoabdulhalim.pythonanywhere.com
